@@ -1,0 +1,19 @@
+textarea {
+    min-height: 400px;
+}
+
+.email{
+    padding: 5px;
+    border: 1px solid black;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+.mailbox-span{
+    background-color: greenyellow;
+    border-radius: 15px;
+    border: 1px solid greenyellow;
+    font-size: 12px;
+    padding: 5px;
+    color:blue;
+}
