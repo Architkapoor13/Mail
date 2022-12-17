@@ -62,16 +62,15 @@ After Reply:
 ![after-reply](screenshots/after%20replying.png)
 ***
 
+## 4. Live Link
+[Live Link](http://architk13.pythonanywhere.com/)
 
-## 4. Screenshots
+## 5. Screenshots
 ![Register](screenshots/register.png)
 ![Login](screenshots/login.png)
 ![Inbox](screenshots/2seperateinboxes.png)
 ![Compose](screenshots/newmail.png)
 ![Sent](screenshots/sent.png)
-
-## 5. Live Link
-[Live Link](http://architk13.pythonanywhere.com/)
 
 ## 6. Video
 [Mail](https://www.youtube.com/watch?v=hqaAgx5JTwk)
