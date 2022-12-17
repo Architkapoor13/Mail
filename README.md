@@ -1,4 +1,4 @@
-# Mail (Way to communicate through your own mailing system)
+# Title: Mail (Way to communicate through your own mailing system)
 
 ## 1. Methodology
 ![mail-methodology](screenshots/mail.png)
