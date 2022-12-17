@@ -3,12 +3,12 @@
 ## 1. Methodology
 ![mail-methodology](screenshots/mail.png)
 
-## Description and Features
+## 2. Description and Features
 This is a mailing system, back-end in Django and Client-side in Javascript.
 It is a single page application from which you can send, recieve, reply, archive the mails.
 This was my first Javascript project!!
 
-### Features
+###  Features
 
 1. Register:
 You will have to make an account on this website so as to use the mailing system.
@@ -42,7 +42,7 @@ You can reply to the mails that have been recieved by you.
 You can see the mails just by clicking on them and they will appear like this:
 
 
-## Input/Output thorugh Example
+## 3. Input/Output thorugh Example
 
 Sending mail from user to another:
 ![sending mail](screenshots/sending%20mail.png)
@@ -63,16 +63,16 @@ After Reply:
 ***
 
 
-## Screenshots
+## 4. Screenshots
 ![Register](screenshots/register.png)
 ![Login](screenshots/login.png)
 ![Inbox](screenshots/2seperateinboxes.png)
 ![Compose](screenshots/newmail.png)
 ![Sent](screenshots/sent.png)
 
-## Live Link
+## 5. Live Link
 [Live Link](http://architk13.pythonanywhere.com/)
 
-### Video
+## 6. Video
 [Mail](https://www.youtube.com/watch?v=hqaAgx5JTwk)
 ***
